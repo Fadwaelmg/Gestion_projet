@@ -1,0 +1,47 @@
+.btn-sm {
+    background-color: transparent !important; 
+    border: none !important; 
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer; 
+}
+
+.btn-sm i {
+    font-size: 1.5rem; 
+    color: white; 
+    background-color: transparent; 
+}
+
+.table .actions button {
+    background: none; 
+    padding: 5px;
+    cursor: pointer;
+}
+
+.table .actions button:hover {
+    transform: scale(1.1); 
+    background: none !important;
+}
+
+.table .btn-danger {
+    background: none; 
+    color: #dc3545; 
+}
+
+.table .btn-warning {
+    background: none; 
+    color: #f0a753; 
+}
+
+.table .btn-danger i {
+    background-color: transparent; 
+    color: #dc3545;
+}
+
+.table .btn-warning i {
+    background-color: transparent; 
+    color: #f0a753; 
+}
+
+
+   
